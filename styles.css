@@ -1,0 +1,24 @@
+body {
+    display: flex;
+}
+
+.first-box-container {
+    width: 200px;
+    height: 100px;
+    background-color: red;
+    margin: 0 10px;
+  }
+  
+  .second-box-container {
+    width: 200px;
+    height: 100px;
+    background-color: yellow;
+    margin: 0 10px;
+  }
+  
+  .third-box-container {
+    width: 200px;
+    height: 100px;
+    background-color: green;
+    margin: 0 10px;
+  }
