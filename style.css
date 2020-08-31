@@ -1,3 +1,14 @@
-p {
-    background-color: red;
+body {
+    color: darkred;
+}
+
+ul {
+    color: pink;
+}
+h1 {
+    color: blue;
+}
+
+.italic {
+    color: red;
 }
