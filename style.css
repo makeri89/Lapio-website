@@ -1,14 +1,23 @@
 body {
-    color: darkred;
+    margin: 0 auto;
+    max-width: 50em;
+    font-family: 'Helvetica', 'Arial', sans-serif;
+    line-height: 1.5;
+    padding: 4em 1em;
+    color: #555;
 }
 
-ul {
-    color: pink;
+h1, h2, h3 {
+    margin-top: 1em;
+    padding-top: 1em;
+    color: #333;
 }
+
 h1 {
-    color: blue;
+    text-align: center;
 }
 
-.italic {
-    color: red;
+#info {
+    display: flex;
+    justify-content: space-around;
 }
